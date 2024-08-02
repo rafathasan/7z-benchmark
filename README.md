@@ -61,4 +61,6 @@
 | Kaggle           | 8278                          | 3089                         | 11286                          | 11286                            | 2938                         | 11088                            |
 | i9-9900K         | 49365                         | 3583                         | 51852                          | 51852                            | 3453                         | 54754                            |
 | Azure Std B1s    | 3359                          | 3571                         | 3517                           | 29859                            | 2611                         | 2603                             |
+
+
 Please note that the benchmark results may vary based on the specific configurations and resources available on each platform.
